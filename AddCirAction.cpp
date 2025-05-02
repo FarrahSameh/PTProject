@@ -47,4 +47,4 @@ void AddCirAction::Execute()
 	//Add the circle to the list of figures
 	pManager->AddFigure(C);
 }
-//b
+//bhh
